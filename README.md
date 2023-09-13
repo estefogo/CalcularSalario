@@ -1,4 +1,4 @@
-<h1>Cálculo de Salário</h1>
+💵<h1>Cálculo de Salário</h1>
 <h2>Script que auxilia no cálculo de salários de funcionários.</h2>
 <h3>Autor: Rafaela Mendonça Estefogo</h3>
 <h3>Linguagem utilizada: Java</h3>
